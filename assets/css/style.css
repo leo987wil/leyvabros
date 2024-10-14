@@ -1794,9 +1794,9 @@ body.locked {
     position: absolute;
     background: url(../images/shapes/why-choose-one-right-box-shape-2.png)no-repeat;
     background-size: contain;
-    width: 280px;
-    height: 230px;
-    bottom: 42px;
+    width: 219px;
+    height: 166px;
+    bottom: -26px;
     left: -40px;
     z-index: 9;
 }
