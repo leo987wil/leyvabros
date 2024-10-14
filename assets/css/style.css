@@ -2336,7 +2336,7 @@ body.locked {
 
 .project-stats-content h2,
 .project-stats-content h2 span {
-    -webkit-text-stroke: 1px var(--elton-primary);
+    -webkit-text-stroke: 1px var(--elton-dark);
     color: #FFF4F0;
     display: inline-block;
     font-size: 120px;
